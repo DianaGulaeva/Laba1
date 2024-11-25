@@ -1,0 +1,26 @@
+{
+    "movies": [
+        {
+            "title": "Начало",
+            "duration": 148,
+            "rating": 3.4
+        },
+        {
+            "title": "Матрица",
+            "duration": 136,
+            "rating": 4.9
+        },
+        {
+            "title": "Жизнь Пи",
+            "duration": 180,
+            "rating": 5.0
+        }
+    ],
+    "serials": [
+        {
+            "title": "Во все тяжкие",
+            "num_of_ep": 93,
+            "rating": 4.8
+        }
+    ]
+}
