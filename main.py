@@ -72,4 +72,8 @@ while True:
         print()
         break
     else:
+<<<<<<< HEAD
         print("Неверный выбор")
+=======
+        print("Неверный выбор")
+>>>>>>> 616d61b67791e508ba8827cad2f6c0cd96c3b870
