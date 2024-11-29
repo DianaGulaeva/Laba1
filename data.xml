@@ -2,7 +2,7 @@
 <data>
   <movies>
     <movie>
-      <title>Начало</title>
+      <title>Титаник</title>
       <duration>148</duration>
       <rating>3.4</rating>
     </movie>
@@ -12,7 +12,7 @@
       <rating>4.9</rating>
     </movie>
     <movie>
-      <title>Жизнь Пи</title>
+      <title>Властенин колец</title>
       <duration>180</duration>
       <rating>5.0</rating>
     </movie>
@@ -23,11 +23,6 @@
     </movie>
   </movies>
   <serials>
-    <serial>
-      <title>Во все тяжкие</title>
-      <num_of_ep>93</num_of_ep>
-      <rating>4.8</rating>
-    </serial>
     <serial>
       <title>Ганнибал</title>
       <num_of_ep>33</num_of_ep>
